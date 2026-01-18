@@ -4,6 +4,9 @@ export interface SoldierInfo {
   dob: string;
   rank: string;
   position: string;
+  squad: string;
+  platoon: string;
+  company: string;
   homeTown: string;
 }
 

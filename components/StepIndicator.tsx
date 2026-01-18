@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { FormStep } from '../types';
+import { FormStep } from '../types.ts';
 
 interface StepIndicatorProps {
   currentStep: FormStep;
